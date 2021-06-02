@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="icons/gmail.svg" width="64"> | <img src="icons/linkedin.svg" width="64"> | <img src="icons/googlescholar.svg" width="64"> | <img src="icons/researchgate.svg" width="64">
+:-------------------------------------:|:-----------------------------------------:| :---------------------------------------------:| :-------------------------------------------:
+[Email](mailto:caio.stringari@gmail.com) | [Linkedin](https://www.linkedin.com/in/caiostringari/) | [Google Scholar](https://scholar.google.ca/citations?user=03E9NhEAAAAJ&hl=en) | [Research Gate](https://www.researchgate.net/profile/Caio_Eadi_Stringari)
 
-Email | Linkedin | Google Scholar | Research Gate
-:-------------------------:|:-------------------------:| :-------------------------:| :-------------------------:
-![mailto:caio.stringari@gmail.com](icons/gmail.svg) | ![https://www.linkedin.com/in/caiostringari/](icons/linkedin.svg) | ![https://scholar.google.ca/citations?user=03E9NhEAAAAJ&hl=en](icons/googlescholar.svg) | ![https://www.researchgate.net/profile/Caio_Eadi_Stringari](icons/researchgate.svg)
-
-I am an Earth Scientist (PhD, University of Newcastle, Australia) with a background in  physical oceanography (B.Sc., Federal University of Rio Grande, Brazil). I am specialized in using machine learning and data-driven techniques to solve challenging environmental problems. My work so far focused mainly to study water waves processes such as wave breaking, energy dissipation, and wave-wave interactions - which have several coastal and ocean engineering applications. I program mostly in `python` but can work proficiently with `Fortran`, `Matlab` and (occasionally) `C++`.
+I am an Earth Scientist 🌎 (PhD, University of Newcastle, 🇦🇺) with a background in  physical oceanography (B.Sc., Federal University of Rio Grande, 🇧🇷). I am specialized in using machine learning and data-driven techniques to solve challenging environmental problems. My work so far focused mainly to study  waves 🌊 processes such as wave breaking, energy dissipation, and wave-wave interactions - which have several coastal and ocean engineering applications. I program mostly in <img src="icons/python.svg" width="16"> `python` but can work proficiently with  <img src="icons/fortran.svg" width="16"> `fortran`, <img src="icons/octave.svg" width="16"> `octave`/`matlab` and (occasionally) <img src="icons/cplusplus.svg" width="16"> `C++`.
