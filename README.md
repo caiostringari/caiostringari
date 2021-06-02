@@ -1,4 +1,4 @@
-### Hi there 👋
+# **Caio E. Stringari, PhD**
 
 <!--
 **caiostringari/caiostringari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Email | Linkedin | Google Scholar | Research Gate
+:-------------------------:|:-------------------------:| :-------------------------:| :-------------------------:
+![mailto:caio.stringari@gmail.com](icons/gmail.svg) | ![https://www.linkedin.com/in/caiostringari/](icons/linkedin.svg) | ![https://scholar.google.ca/citations?user=03E9NhEAAAAJ&hl=en](icons/googlescholar.svg) | ![https://www.researchgate.net/profile/Caio_Eadi_Stringari](icons/researchgate.svg)
+
+I am an Earth Scientist (PhD, University of Newcastle, Australia) with a background in  physical oceanography (B.Sc., Federal University of Rio Grande, Brazil). I am specialized in using machine learning and data-driven techniques to solve challenging environmental problems. My work so far focused mainly to study water waves processes such as wave breaking, energy dissipation, and wave-wave interactions - which have several coastal and ocean engineering applications. I program mostly in `python` but can work proficiently with `Fortran`, `Matlab` and (occasionally) `C++`.
